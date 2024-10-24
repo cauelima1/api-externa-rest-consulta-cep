@@ -11,3 +11,13 @@ Após o cadastro do cliente através do método POST, é possível realizar nest
 - consulta de um unico cliente através do GET{id}
 - Excluir um cliente pelo ID através do DELETE
 - Alterar um cliente pelo IT através do PUT.
+
+
+
+### DEPENDENCIAS UTILIZADAS
+- JPA
+- WEB
+- OPENAPI UI
+- LAMBOK
+- H2
+- OPENFEIGN
